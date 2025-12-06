@@ -1,5 +1,10 @@
-# Bishopric Survival Resource
+# Baptisms - Quick Reference Guide
 
+A quick reference guide for bishopric members regarding baptism procedures and ordinances.
+
+📄 **[Download Baptismal Service Program Template](Baptismal_Service_Program.docx)** - Editable Word document
+
+---
 
 ## 📋 Table of Contents
 
