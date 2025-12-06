@@ -2,7 +2,7 @@
 
 A quick reference guide for bishopric members regarding baptism procedures and ordinances.
 
-📄 **[Download Baptismal Service Program Template](Baptismal_Service_Program_Template.txt)** - Easy-to-edit text file
+📄 **[Download Baptismal Service Program Template](https://raw.githubusercontent.com/ReptilianRex6/Bishopric-Survival-Resource/refs/heads/main/Baptisms/Baptismal_Service_Program_Template.txt)** - Easy-to-edit text file
 
 ---
 
@@ -44,7 +44,7 @@ Use this checklist to ensure all preparations are complete:
 
 ## 🎵 Baptismal Service Program
 
-📄 **[Download Text Template](Baptismal_Service_Program_Template.txt)** - Simple text file you can edit in any program
+📄 **[Download Text Template](https://raw.githubusercontent.com/ReptilianRex6/Bishopric-Survival-Resource/refs/heads/main/Baptisms/Baptismal_Service_Program_Template.txt)** - Simple text file you can edit in any program
 
 A baptismal service should be **simple, brief, and spiritually uplifting**. 
 
