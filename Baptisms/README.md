@@ -1,8 +1,5 @@
 # Bishopric Survival Resource
 
-A quick reference guide for bishopric members regarding baptism procedures and ordinances.
-
----
 
 ## 📋 Table of Contents
 
@@ -41,6 +38,8 @@ Use this checklist to ensure all preparations are complete:
 ---
 
 ## 🎵 Baptismal Service Program
+
+[Download Word Template](Baptismal_Service_Program.docx) - Editable Word document
 
 A baptismal service should be **simple, brief, and spiritually uplifting**. 
 
