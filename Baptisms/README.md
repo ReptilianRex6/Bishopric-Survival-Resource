@@ -8,10 +8,10 @@ A quick reference guide for bishopric members regarding baptism procedures and o
 
 ## 📋 Table of Contents
 
-- [Baptism and Confirmation Record](#baptism-and-confirmation-record)
-- [Baptism Preparation Checklist](#baptism-preparation-checklist)
-- [Baptismal Service Program](#baptismal-service-program)
-- [References](#references)
+- [Baptism and Confirmation Record](#-baptism-and-confirmation-record)
+- [Baptism Preparation Checklist](#-baptism-preparation-checklist)
+- [Baptismal Service Program](#-baptismal-service-program)
+- [References](#-references)
 
 ---
 
